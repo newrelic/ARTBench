@@ -1,3 +1,5 @@
+[![Archived header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Archived.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md#archived)
+
 ART Bench
 =========
 ART Bench is a simple demonstration of the performance difference between the new Android Runtime (ART) and the current Dalvik Virtual Machine.  To fully illustrate these differences, I've employed the [New Relic Android agent](http://newrelic.com/android-app-optimization) to collect performance metrics and send them to back to New Relic.
